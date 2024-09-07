@@ -1,0 +1,3 @@
+import random
+fukts = ["Люблю играть в рогалики","Прошел Portal 2","Высокий","самаобучаюсь javascript","Я изучаю англиский"]
+print(random.choice(fukts))
